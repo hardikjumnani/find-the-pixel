@@ -1,0 +1,19 @@
+body {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+#submit {
+    background-color: yellow;
+    transition: transform 500ms ease;
+    border: 1px solid black;
+}
+
+#submit:hover {
+    transform: scale(1.05);
+}
+
+#score-text {
+    visibility: hidden;
+}
