@@ -4,6 +4,10 @@ body {
     text-align: center;
 }
 
+p {
+    margin-top: 0px;
+}
+
 #submit {
     background-color: yellow;
     transition: transform 500ms ease;
